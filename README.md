@@ -1,5 +1,8 @@
 # FaniRepo
-Esercizi java.
+Esercizio java nr.1.
+
+Tempo impiegato : 8ore circa.
+
 
 Scopo dell'esercizio è la realizzazione di una libreria (package OldFashionPound) che implementa le 4 operazioni fondamentali (somma, sottrazione, moltiplicazione e divisione) di prezzi secondo il sistema monetario inglese antecedente al 1970 (1 sterlina=20 scellini, 1 scellino=12 pennies).
 
