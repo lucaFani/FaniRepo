@@ -1,5 +1,6 @@
 # FaniRepo
 Esercizio java nr.1.
+CLASSIFICAZIONE PUBBLICO - LIVELLO NON CRITICO
 
 Tempo impiegato : 8ore circa.
 
