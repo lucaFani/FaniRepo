@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="copy-jar-to-parent"  >
+<target name="copy-jar-to-parent">
+  <copy file="C:\_csework\workspaceTEMP\OldFashionPound/target/OldFashionPound-1.0.0.jar" tofile="C:\_csework\workspaceTEMP\OldFashionPound/dist/oldfashionPound.jar" overwrite="true"/>
+</target>
+</project>

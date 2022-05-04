@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OldFashionPound
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-SymbolicName: it.dev.testjava
+Bundle-Version: 1.0.0
+Export-Package: it.dev.testjava.main;version="1.0.0"
+Implementation-Title: it.dev.testjava
+Specification-Title: OldFashionPound
+Specification-Version: v20220504-1.0.0
